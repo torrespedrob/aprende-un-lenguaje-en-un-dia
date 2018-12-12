@@ -10,7 +10,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 ## Lenguaje de programación
 
-Escribe el lenguaje de programación elegido por el grupo.
+
 
 * JULIA
 
@@ -34,7 +34,7 @@ println("Hola Mundo!")
 
 ### 2. Pirámide
 
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+
 
 ### 3. Arrays y números aleatorios
 
