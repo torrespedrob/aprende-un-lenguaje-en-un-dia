@@ -24,6 +24,9 @@ Julia es un lenguaje de programación multiplataforma y multiparadigma de tipado
 
 Se puede programar con Visual Studio Code si le instalas el Plugin de Julia.
 
+<img src="./imagenes/pluginjulia.png" alt="Resultado de HolaMundo">
+
+
 ## Poniendo en práctica el lenguaje
 
 ### 1. ¡Hola mundo!
