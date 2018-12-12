@@ -28,5 +28,11 @@ while i < 11
     end
     i = i + 1
 end
+num2 = 1
+while num1 < 10
+    prim[num1 + 1] = noPrim[num2]
+    num1 = num1 + 1
+    num2 = num2 + 1
+end
+print("Array ordenado: ")
 println(prim)
-println(noPrim)
