@@ -18,19 +18,19 @@ Escribe el lenguaje de programación elegido por el grupo.
 
 La página oficial del lenguaje es [julia.org](https://julialang.org)
 
-
+Julia es un lenguaje de programación multiplataforma y multiparadigma de tipado dinámico, alto nivel y alto desempeño para la computación genérica, técnica y científica, con una sintaxis que es familiar para los usuarios de otros entornos de computación técnica y científica
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Se puede programar con Visual Studio Code si le instalas el Plugin de Julia.
 
 ## Poniendo en práctica el lenguaje
 
-Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
-
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+'''julia
+println("Hola Mundo!")
+'''
 
 ### 2. Pirámide
 
