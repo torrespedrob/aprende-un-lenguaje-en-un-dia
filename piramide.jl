@@ -1,14 +1,15 @@
 print("Introduce la altura de la pirámide: ")
-altura = readline(STDIN)
+alt = readline(STDIN)
+altura = parse(Int, alt)
 base = 1
 largo = 1
-espacio = altura - 1
+espacio = (altura - 1)
 while base <= altura
     for i = 0:espacio
         print(" ")
     end
 
-    for i = 0:largo
+    for i = 1:largo
         print("*")
     end
 
