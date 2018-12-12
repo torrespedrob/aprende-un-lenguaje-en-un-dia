@@ -28,9 +28,9 @@ Se puede programar con Visual Studio Code si le instalas el Plugin de Julia.
 
 ### 1. ¡Hola mundo!
 
-'''julia
+```julia
 println("Hola Mundo!")
-'''
+```
 
 ### 2. Pirámide
 
