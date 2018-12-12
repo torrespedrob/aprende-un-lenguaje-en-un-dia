@@ -31,7 +31,7 @@ Se puede programar con Visual Studio Code si le instalas el Plugin de Julia.
 Realiza un programa que muestre por pantalla la frase **¡Hola Mundo!**.
 
 ```julia
-println("Hola Mundo!")
+println("¡Hola Mundo!")
 ```
 
 <img src="./imagenes/HolaMundo.png" alt="Resultado de HolaMundo">
