@@ -23,7 +23,7 @@ Julia es un lenguaje de programación multiplataforma y multiparadigma de tipado
 ## Herramientas de desarrollo
 
 Es necesario descargar el lenguaje Julia desde la [web oficial](https://julialang.org/downloads/) para la plataforma que uses.
-Además necesitaremos un IDE como Visual Studio Code con su correspondiente plugin para soportar el lenguaje Julia. Se pueden utilizar otros IDEs como Juno o Jupyter. En nuestro caso, hemos utilizado Visual Studio Code.
+Además necesitaremos un IDE o editor como Visual Studio Code con su correspondiente plugin para soportar el lenguaje Julia. Se pueden utilizar otros IDEs como Juno o Jupyter. En nuestro caso, hemos utilizado Visual Studio Code.
 
 <img src="./imagenes/pluginjulia.png" alt="Resultado de HolaMundo">
 
