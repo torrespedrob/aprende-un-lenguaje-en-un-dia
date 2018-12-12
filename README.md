@@ -6,7 +6,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 * Pedro Torres Barba (Líder)
 * Jorge García Molina
-* Rafaél Aragón Rodríguez
+* Rafael Aragón Rodríguez
 
 ## Lenguaje de programación
 
@@ -18,7 +18,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 La página oficial del lenguaje es [julia.org](https://julialang.org)
 
-Julia es un lenguaje de programación multiplataforma y multiparadigma de tipado dinámico, alto nivel y alto desempeño para la computación genérica, técnica y científica, con una sintaxis que es familiar para los usuarios de otros entornos de computación técnica y científica
+Julia es un lenguaje de programación multiplataforma y multiparadigma de tipado dinámico, alto nivel y alto desempeño para la computación genérica, técnica y científica, con una sintaxis que es familiar para los usuarios de otros entornos de computación técnica y científica.
 
 ## Herramientas de desarrollo
 
